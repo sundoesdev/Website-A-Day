@@ -9,7 +9,7 @@ Web-development is a great way to sustain daily practice that can also be artist
 
 I do it for the [love of the game](https://en.wiktionary.org/wiki/for_the_love_of_the_game).
 
-One Day, or, Day one.
+One Day, or, Day One.
 
 ## Goals
 - Over 100 consecutive days, make 1 website
