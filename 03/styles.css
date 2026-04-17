@@ -1,0 +1,18 @@
+.box {
+    background-color: black;
+    width: 10%;
+    height: 10%;
+}
+
+.butt {
+    border: 100%;
+    color: black;
+    padding: 15px 72px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #008CBA;
+}
