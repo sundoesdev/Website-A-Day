@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-style: "Times New Roman";
+}
+
+.title {
+    color: red;
+}
+
+.caption {
+    color: grey;
+}
+
+.section {
+    display: inline-block;
+    text-align: left;
+    list-style: inside;
+    color: grey;
+}
+
+.save-and-quit-note {
+    color: white;
+}

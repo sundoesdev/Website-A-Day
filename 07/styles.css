@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: "Times New Roman";
+}
+
+.title {
+    padding-bottom: 35px;    
+}
+
+.entire-page {
+    display: inline-block;
+    text-align: left;
+}
+
+.text {
+    color: #EEEEEEEE;
+}
+
+.fot {
+    padding-left: 1000px;
+    display: inline-block;
+}
+
