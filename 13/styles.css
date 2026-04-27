@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Times New Roman";
+}
+
+.title-fig {
+
+}
+
+#title-header {
+    color: red;
+}
+
+.btn-fig {
+    display: inline-block;
+    align: center;
+}
+
+.btn {
+    font-size: 50px;
+    color: red;
+    background-color: blue;
+}
+
+#output {
+    word-wrap: break-word;
+    word-break: break-word;
+    white-space: normal;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    line-height: 1.5;
+}
